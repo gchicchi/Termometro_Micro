@@ -1,5 +1,9 @@
 # Termômetro Microcontrolado
 
+Gabriel Chicchi Grunspan R.A.:23.01059-2
+
+Luigi Pieroni da Silva R.A.:23.00761-3
+
 O desafio proposto na disciplina de **Microcontroladores e Instrumentação** consistia no desenvolvimento de um sensor analógico capaz de acionar algum atuador (com exceção de um LED) utilizando o microcontrolador **RP2040**. Dentre as diversas possibilidades, optamos por desenvolver um **sensor de temperatura**. Entretanto, surgiu um desafio adicional: como construir um sensor de temperatura sem utilizar componentes especificamente projetados para essa finalidade, como termistores, sensores integrados ou até mesmo transistores?
 
 A partir desse problema, iniciamos um estudo sobre alternativas para a medição de temperatura e constatamos que seria possível utilizar a **queda de tensão direta de um diodo semicondutor** como variável de medição. Conforme apresentado no **Gráfico 1**, extraído do datasheet do diodo **1N4007**, a tensão direta no diodo varia em função da temperatura de junção. Dessa forma, essa característica pode ser explorada para estimar a temperatura a partir da medição da tensão sobre o componente.
