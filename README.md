@@ -50,7 +50,7 @@ O projeto resultou em um sensor de temperatura totalmente funcional, desenvolvid
 
 **Documentação**
 
-Link para a Apresentação:
+Link para a Apresentação: https://github.com/gchicchi/Termometro_Micro/blob/main/Apresenta%C3%A7%C3%A3o_Final.pptx
 
 Link para o Relatório Técnico: 
 
