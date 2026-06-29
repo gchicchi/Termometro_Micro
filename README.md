@@ -52,5 +52,5 @@ O projeto resultou em um sensor de temperatura totalmente funcional, desenvolvid
 
 Link para a Apresentação: https://github.com/gchicchi/Termometro_Micro/blob/main/Apresenta%C3%A7%C3%A3o_Final.pptx
 
-Link para o Relatório Técnico: 
+Link para o Relatório Técnico: https://github.com/gchicchi/Termometro_Micro/blob/main/Relat%C3%B3rio_Final.pdf
 
