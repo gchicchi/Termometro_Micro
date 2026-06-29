@@ -48,3 +48,9 @@ Por fim, foi desenvolvida a estrutura mecânica do equipamento utilizando o **So
 
 O projeto resultou em um sensor de temperatura totalmente funcional, desenvolvido a partir de componentes discretos e utilizando princípios físicos dos dispositivos semicondutores para realizar a medição. Além de atender aos requisitos propostos pela disciplina, o trabalho proporcionou uma compreensão aprofundada sobre instrumentação eletrônica, condicionamento de sinais, calibração experimental e processamento de dados em microcontroladores.
 
+**Documentação**
+
+Link para a Apresentação:
+
+Link para o Relatório Técnico: 
+
